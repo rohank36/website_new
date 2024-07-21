@@ -3,10 +3,10 @@ import Navbar from "./Navbar";
 
 export default function Home() {
   return (
-    <div className="bg-black h-screen">
+    <div className="bg-black min-h-screen">
       <Navbar />
-      <div className="flex flex-col items-center justify-center text-white text-sm">
-        <div className="flex flex-col items-start text-left max-w-md space-y-4">
+      <div className="flex flex-col items-center justify-center text-white text-sm min-h-screen pb-8">
+        <div className="flex flex-col items-start text-left max-w-xl space-y-4">
           <p>How it's going, I'm Rohan :)</p>
           <p>For a professional understanding of who I am click here. Else: </p>
           <p>I like building stuff for people. Most of the time that happens to be software.</p>
@@ -24,13 +24,20 @@ export default function Home() {
           <p>I'm trying to think in terms of years rather than months.</p>
           <p>Given a target - I'm focused, committed, and determined.</p>
           <p>I never miss twice.</p>
-          <p>I believe that the best way to improve is by doing, getting feedback, learning, adjusting, then doing again.</p>
-          <p>I believe that to achieve great things you need to be healthily obsessed.</p>
-          <p>I believe that you should never define yourself based on your results but rather how you carry yourself and interact with others.</p>
+          <p>I believe that: </p>
+          <ul className="list-disc list-inside pl-4 space-y-2">
+            <li>The best way to improve is by doing, getting feedback, learning, adjusting, then doing again.</li>
+            <li>To achieve great things you need to be healthily obsessed.</li>
+            <li>You should never define yourself based on your results but rather how you carry yourself and interact with others.</li>
+          </ul>
           <p>Inscribed upon the Temple of Apollo at Delphi is the maxim: "Know Thyself". I'm always trying to learn more about myself: 
             what I love, what I'm really good at, what I can get paid to do, and what I think the world needs - my Ikigai.</p>
           <p>I'm still searching for a problem that I can fall in love with. In the meantime I'm learning, driven, and trying to make money.</p>
           <p>Ultimately, I just want to enjoy life and be remembered as a good son, brother, friend, and human.</p>
+          <div className="">
+            <p>"Know all the theories, master all the techniques, but as you touch a human soul be just another human soul." - C.G. Jung</p>
+            <p>"A smooth sea never made a skilled sailor." - Franklin D. Roosevelt</p>
+          </div>
         </div>
       </div>
     </div>
