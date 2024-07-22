@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex flex-col items-center justify-center text-white text-sm min-h-screen pb-8">
         <div className="flex flex-col items-start text-left max-w-xl space-y-4">
           <p>How it's going, I'm Rohan :)</p>
-          <p>For a professional understanding of who I am checkout my Experience page. Else: </p>
+          <p>For a professional understanding of who I am click <span className="underline">here</span>. Else: </p>
           <p>I like building stuff for people. Most of the time that happens to be software.</p>
           <p>Professionally, I do full stack development but want to learn more about cloud infrastructure, cybersecurity, low-level programming, and site reliability.</p>
           <p>Personally, I spend my nights and weekends interested in algorithmic trading, practical deep learning, writing well, building brands, and Brazilian jiu jitsu.</p>
