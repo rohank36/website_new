@@ -10,7 +10,7 @@ export default function Home() {
           <p>How it's going, I'm Rohan :)</p>
           <p>For a professional understanding of who I am click <span className="underline">here</span>. Else: </p>
           <p>I like building stuff for people. Most of the time that happens to be software.</p>
-          <p>Professionally, I do full stack development but want to learn more about cloud infrastructure, cybersecurity, low-level programming, and site reliability.</p>
+          <p>Professionally, I do full stack development but want to learn more about cloud infrastructure, cybersecurity, low-level programming, and Linux.</p>
           <p>Personally, I spend my nights and weekends interested in algorithmic trading, practical deep learning, writing well, building brands, and Brazilian jiu jitsu.</p>
           <p>I grew up in 5 different countries, spanning 3 continents, so I never know how to answer when someone asks me where I'm from.</p>
           <p>I love lasso-spider guard, FC Barcelona, the beach, and Costco rotisserie chickens.</p>

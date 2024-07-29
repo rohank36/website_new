@@ -8,6 +8,7 @@ const Navbar = () => {
           <div className="flex justify-end space-x-8">
             <p>Home</p>
             <p>Experience</p>
+            <p>Projects</p>
             <p>Readings</p>
             <p>Writings</p>
           </div>
