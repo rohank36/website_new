@@ -9,6 +9,11 @@ export default function Experience() {
       <div className="flex flex-col items-center justify-center text-white text-sm min-h-screen pb-8">
         <div className="flex flex-col items-start text-left max-w-xl space-y-4">
           <p>A bit about me, professionally:</p>
+          <div>
+            
+
+            
+          </div>
         </div>
       </div>
     </div>
