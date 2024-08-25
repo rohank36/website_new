@@ -12,7 +12,7 @@ export default function Home() {
           <p>For a professional understanding of who I am click <Link href="/writings" className="underline">here</Link>. Else: </p>
           <p>I like building stuff for people. Most of the time that happens to be software.</p>
           <p>Professionally, I do full stack development but want to learn more about cloud infrastructure, cybersecurity, low-level programming, and Linux.</p>
-          <p>Personally, I spend my nights and weekends interested in <a href="https://www.amazon.ca/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889" className="underline">algorithmic trading</a>, <a href="https://course.fast.ai/" className="underline">practical deep learning</a>, <Link href="/writings" className="underline">writing well</Link>, <a href="https://www.instagram.com/prospectprepconsulting/" className="underline">building brands</a>, and Brazilian jiu jitsu.</p>
+          <p>Personally, I spend my nights and weekends interested in <a href="https://www.amazon.ca/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889" className="underline">algorithmic trading</a>, <a href="https://course.fast.ai/" className="underline">practical deep learning</a>, <a href="https://www.instagram.com/prospectprepconsulting/" className="underline">building brands</a>, and Brazilian jiu jitsu.</p>
           <p>I grew up in 5 different countries, spanning 3 continents, so I never know how to answer when someone asks me where I'm from.</p>
           <p>I love lasso-spider guard, FC Barcelona, the beach, and Costco rotisserie chickens.</p>
           <p>I desperately want to visit Greece.</p>
