@@ -1,4 +1,3 @@
-'use client'
 import Navbar from "./Navbar";
 import Link from 'next/link'
 
@@ -9,7 +8,7 @@ export default function Home() {
       <div className="flex flex-col items-center justify-center text-white text-sm min-h-screen pb-8">
         <div className="flex flex-col items-start text-left max-w-xl space-y-4">
           <p>How it's going, I'm Rohan :)</p>
-          <p>For a professional understanding of who I am click <Link href="/writings" className="underline">here</Link>. Else: </p>
+          <p>For a professional understanding of who I am click <Link href="/experience" className="underline">here</Link>. Else: </p>
           <p>I like building stuff for people. Most of the time that happens to be software.</p>
           <p>Professionally, I do full stack development but want to learn more about cloud infrastructure, cybersecurity, low-level programming, and Linux.</p>
           <p>Personally, I spend my nights and weekends interested in <a href="https://www.amazon.ca/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889" className="underline">algorithmic trading</a>, <a href="https://course.fast.ai/" className="underline">practical deep learning</a>, <a href="https://www.instagram.com/prospectprepconsulting/" className="underline">building brands</a>, and Brazilian jiu jitsu.</p>
