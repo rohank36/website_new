@@ -8,7 +8,7 @@ export default function Experience() {
     {job:"Software Developer Intern",company:"CarInspect",date:"Jan - April 2024",description:"asdf"},
     {job:"CS Research Assistant",company:"McGill University",date:"May - July 2023",description:"asdf"},
     {job:"Data Science Intern",company:"Birch Hill Equity Partners",date:"May - Aug 2022",description:"Delivered a lot of knives across the US.", learning:"To help build great companies, you must be on the ground seeing it operate."},
-    {job:"Infantry Lieutenant",company:"Singapore Army",date:"Oct 2019 - Aug 2021",description:"Shot guns, rode helicopters, survived in the jungle, planned and executed missions, led soldiers, made friends, served my country.", learning:"The only constant in life is change. Don't greet the Brigade Sergeant Major with dirty boots. Know your mission endstate + challenges, plan your operation accoridngly, prepare for the operation. Take accountability. There will always be someone on the stretcher. Always be the coolest f***ing cucumber on the block."},
+    {job:"Infantry Lieutenant",company:"Singapore Army",date:"Oct 2019 - Aug 2021",description:"Shot guns, rode helicopters, survived in the jungle, planned and executed missions, led soldiers, made friends, served my country.", learning:"The only constant in life is change. Don't greet the Brigade Sergeant Major with dirty boots. Know your mission endstate + challenges, plan your operation accoridngly, prepare for the operation. Take accountability. Always keep track of your smoke grenades. Always be the coolest f***ing cucumber on the block."},
   ]
   return (
     <div className="bg-black min-h-screen">

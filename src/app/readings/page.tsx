@@ -17,6 +17,7 @@ export default function Readings() {
       <Navbar />
       <div className="flex flex-col items-center justify-center text-white text-sm min-h-screen pb-8">
         <div className="flex flex-col items-start text-left max-w-xl space-y-4">
+          <p>Currently reading: <i>Deep Work</i> by Cal Newport</p>
           <p>Some useful and good readings I like + what I learned from them:</p>
           <div className="w-full space-y-8">
             {cards.map((card, index) => ( <ReadingsCard key={index} title={card.title} author={card.author} description={card.description} date={card.date || ""}/>))}
